@@ -2,7 +2,7 @@
 <h3 align="center">⚡Explorer | Creator | Innovator | Developer ⚡</h3>
 
 <div align="center">
-  <img alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/2dbe6ffd-825a-4153-b33e-adb7de4bc648" width="300" height="300" />  
+  <img alt="gif" src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/2dbe6ffd-825a-4153-b33e-adb7de4bc648" width="300" height="300" />  
 </div>
 
 ⁜ I am a Data Science with AI & ML Enthusiast, trying to build AI solutions for a smarter future.
@@ -15,9 +15,9 @@
 
 <div align="left">
 
-   <img  align="right" alt="gif" src="https://github.com/Likhith-24/Likhith-24/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />  
+   <img  align="right" alt="gif" src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />  
    
-  - 🔭 **I’m currently working on** [VedaGPT](https://github.com/Likhith-24/VedaGPT)
+  - 🔭 **I’m currently working on** [VedaGPT](https://github.com/Code2Collapse/VedaGPT)
 
   - 🌱 **I’m currently learning:**
     - HuggingFace, LLMs, AI, DS, ML, NLP
@@ -26,7 +26,7 @@
     - Tools and technologies: Pandas, NumPy, Scikit-Learn, PyTorch, NLTK, SciPy, <br>Matplotlib, Seaborn, Keras, HuggingFace, LangChain,
       Flask, Streamlit, Hadoop, Spark, Tableau, PowerBI</br>
     
-  - 👨‍💻 **All of my projects are available at** [https://github.com/Likhith-24/](https://github.com/Likhith-24/)
+  - 👨‍💻 **All of my projects are available at** [https://github.com/Code2Collapse/](https://github.com/Code2Collapse/)
 
   - 💬 **Ask me anything about** AI, LLMs, Generative AI, Vector Database<br> RAGs, GANs, HuggingFace, Data Science, Machine Learning,</br>Natural Language           Processing, Deep Learning
 
@@ -74,7 +74,7 @@
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
   </a>
   <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Likhith-24/Likhith-24/assets/132389441/e20f22d5-cb8d-41c1-9071-9ba00b27f3de" alt="langchain" width="80" height="40"/> 
+    <img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/e20f22d5-cb8d-41c1-9071-9ba00b27f3de" alt="langchain" width="80" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -98,7 +98,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Likhith-24/Likhith-24/assets/132389441/77c22e78-6c79-467e-a29c-9cb3cebe0d7a" alt="nltk" width="40" height="40"/> 
+    <img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/77c22e78-6c79-467e-a29c-9cb3cebe0d7a" alt="nltk" width="40" height="40"/> 
   </a>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" alt="scipy" width="40" height="40"/> 
@@ -113,7 +113,7 @@
     <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/> 
   </a>  
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Likhith-24/Likhith-24/assets/132389441/57c31ea4-4e72-4910-a191-14cde8c2633e" alt="flask" width="40" height="40" /> 
+    <img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/57c31ea4-4e72-4910-a191-14cde8c2633e" alt="flask" width="40" height="40" /> 
   </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -193,27 +193,27 @@
 
 ## 📊 Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith-24&label=Profile%20views&color=0e75b6&style=flat" alt="likhith-24" /> <b>&nbsp; is the total count! </b>  </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Code2Collapse&label=Profile%20views&color=0e75b6&style=flat" alt="Code2Collapse" /> <b>&nbsp; is the total count! </b>  </p> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Likhith-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Galactic%20Standard%20Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Likhith-24&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Likhith-24&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Likhith-24&radius=16&theme=github-dark&area=true&order=5&bg_color=000000&color=00aeff&title_color=00FF41&line=00FF41&point=FFFFFF&area_color=FFFFFF&custom_title=My%20Contribution%20Holocron" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code2Collapse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code2Collapse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Galactic%20Standard%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Code2Collapse&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Code2Collapse&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code2Collapse&radius=16&theme=github-dark&area=true&order=5&bg_color=000000&color=00aeff&title_color=00FF41&line=00FF41&point=FFFFFF&area_color=FFFFFF&custom_title=My%20Contribution%20Holocron" height="300" alt="activity-graph graph"  />
 </div>
 
 
 ###
-![Snake Animation](https://github.com/Likhith-24/Likhith-24/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Code2Collapse/Code2Collapse/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://github.com/Likhith-24/Likhith-24/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Code2Collapse/Code2Collapse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
 <div align="center">
-  <img src="https://github.com/Likhith-24/Likhith-24/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Code2Collapse/Code2Collapse/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <h4 align="center">⚠ Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
