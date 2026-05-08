@@ -207,9 +207,6 @@
 ###
 
 
-<div align="center">
-  <img src="https://github.com/Code2Collapse/Code2Collapse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 
 <div align="center">
