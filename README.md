@@ -12,7 +12,7 @@
 
 ⁜ As a passionate data scientist with a knack for innovation, I leverage cutting-edge techniques like Generative AI and NLP to tackle complex problems.
 
-⁜ Programmer by day, world-shaper by dream. I wield a meticulous scalpel on code, sculpting impactful solutions. I seek elegant solutions, using code as my lightsaber of precision to build a better galaxy.
+⁜ I enjoy writing clean, purposeful code and am always looking for better ways to solve problems — whether that's through a smarter algorithm or a well-designed system.
 
 ⁜ I love programming, reading books, learning about awesome new-tech and communicating with everyone.
 
