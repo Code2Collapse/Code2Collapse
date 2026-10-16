@@ -1,97 +1,152 @@
+<h1 align="center">• Hello There 👋, Likhith is who I am •</h1>
+<h3 align="center">⚡ Explorer | Creator | Innovator | Developer ⚡</h3>
+
 <div align="center">
+  <img alt="gif" src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/2dbe6ffd-825a-4153-b33e-adb7de4bc648" width="300" height="300" />
+</div>
 
-<img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/2dbe6ffd-825a-4153-b33e-adb7de4bc648" width="230" alt="Likhith's animated intro" />
+<br>
 
-# Likhith Varigonda
+⁜ I am a Data Science with AI & ML Enthusiast, trying to build AI solutions for a smarter future.
 
-### AI/ML · Generative AI · VFX
+⁜ As a passionate data scientist with a knack for innovation, I leverage cutting-edge techniques like Generative AI and NLP to tackle complex problems.
 
-*Building useful things with AI. Occasionally convincing pixels to behave.*
+⁜ I enjoy writing clean, purposeful code and am always looking for better ways to solve problems — whether that's through a smarter algorithm or a well-designed system.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:071a2f,100:00d9ff&height=3&section=header" width="100%" alt="" />
+⁜ I love programming, reading books, learning about awesome new-tech and communicating with everyone.
 
-[LinkedIn](https://www.linkedin.com/in/v-likhith) · [X / Twitter](https://twitter.com/likhith24) · [Instagram](https://www.instagram.com/likhith.24/) · [Email](mailto:v.likhith.01@gmail.com) · [Resume](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
+<div align="left">
 
+<img align="right" alt="gif" src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />
+
+- 🔭 **I'm currently working on** [VedaGPT](https://github.com/Code2Collapse/VedaGPT)
+
+- 🌱 **I'm currently learning:**
+  - HuggingFace, LLMs, AI, DS, ML, NLP
+  - Data Structures and Algorithms
+  - System Design
+  - Tools and technologies: Pandas, NumPy, Scikit-Learn, PyTorch, NLTK, SciPy, Matplotlib, Seaborn, Keras, HuggingFace, LangChain, Flask, Streamlit, Hadoop, Spark, Tableau, PowerBI
+
+- 👨‍💻 **All of my projects are available at** [https://github.com/Code2Collapse/](https://github.com/Code2Collapse/)
+
+- 💬 **Ask me anything about** AI, LLMs, Generative AI, Vector Databases, RAGs, GANs, HuggingFace, Data Science, Machine Learning, Natural Language Processing, Deep Learning
+
+- 📫 **How to reach me:** [v.likhith.01@gmail.com](mailto:v.likhith.01@gmail.com)
+
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
+
+- ⚡ **Fun fact:** I might have some sense of humour. I will have more convos if you start about Star Wars, Tech-Stuff, Space. Literally Anything!
+
+</div>
+
+<br clear="right"/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" />
 </div>
 
 ---
 
-## `whoami`
+<h3 align="left">Connect with me:</h3>
+<table><tr>
+<td><a href="https://twitter.com/likhith24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="likhith24" height="30" width="40" /></a></td>
+<td><a href="https://www.linkedin.com/in/v-likhith" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-likhith" height="30" width="40" /></a></td>
+<td><a href="https://www.instagram.com/likhith.24/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likhith.24" height="30" width="40" /></a></td>
+</tr></table>
 
-I'm an AI/ML engineer interested in the overlap between **machine learning, generative AI, and visual effects**. I like understanding how things work under the hood—not just getting a model to produce an answer, but figuring out whether that answer makes sense and how to turn it into something useful.
+---
 
-Outside the terminal: books, science and space rabbit holes, films, and the occasional unnecessarily deep conversation.
+## 🛠️ My Favourite Tools
 
-## `currently_building`
+### 👨‍💻 Programming Languages
 
-**[VedaGPT](https://github.com/Code2Collapse/VedaGPT)**
+<img src="https://skillicons.dev/icons?i=c,css,java,python" />
 
-Exploring AI-powered tools and practical ways to make language models useful.
+### 🧰 Frameworks and Libraries
 
-## `things_i_work_with`
+<table><tr>
+<td><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a></td>
+<td><a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer"><img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/e20f22d5-cb8d-41c1-9071-9ba00b27f3de" alt="langchain" width="80" height="40"/></a></td>
+<td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
+<td><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></td>
+<td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
+<td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
+<td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scikit_learn" width="40" height="40"/></a></td>
+<td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
+<td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
+<td><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/77c22e78-6c79-467e-a29c-9cb3cebe0d7a" alt="nltk" width="40" height="40"/></a></td>
+<td><a href="https://www.scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/></a></td>
+<td><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a></td>
+<td><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a></td>
+<td><a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/></a></td>
+<td><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/57c31ea4-4e72-4910-a191-14cde8c2633e" alt="flask" width="40" height="40"/></a></td>
+<td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opencv" alt="opencv" width="40" height="40"/></a></td>
+<td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+<td><a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a></td>
+<td><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="spark" width="40" height="40"/></a></td>
+<td><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachekafka" alt="kafka" width="40" height="40"/></a></td>
+</tr></table>
+
+### 🗄️ Databases and Cloud Hosting
+
+<table><tr>
+<td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" height="35"/></a></td>
+<td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/></a></td>
+<td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
+<td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+<td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+<td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
+</tr></table>
+
+### 🧑‍💻 Data Structures & Algorithms
+
+<table><tr>
+<td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
+<td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+<td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+</tr></table>
+
+### 🔧 Software and Tools
+
+<table><tr>
+<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+<td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/></a></td>
+<td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a></td>
+<td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
+<td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a></td>
+<td><a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" alt="atlassian" width="40" height="40"/></a></td>
+</tr></table>
+
+---
+
+## 📊 Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Code2Collapse&label=Profile%20views&color=0e75b6&style=flat" alt="Code2Collapse" /> <b>&nbsp; is the total count!</b>
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,pytorch,tensorflow,opencv,django,flask,streamlit,docker,git,linux,mongodb,mysql,aws&theme=dark" alt="Technology icons" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-071A2F?style=flat-square&logo=openai&logoColor=00D9FF" alt="Generative AI" />
-<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-071A2F?style=flat-square&logo=huggingface&logoColor=00D9FF" alt="LLMs and RAG" />
-<img src="https://img.shields.io/badge/NLP-071A2F?style=flat-square&logo=spacy&logoColor=00D9FF" alt="NLP" />
-<img src="https://img.shields.io/badge/Data%20Science-071A2F?style=flat-square&logo=pandas&logoColor=00D9FF" alt="Data Science" />
-<img src="https://img.shields.io/badge/VFX%20%2B%20AI-071A2F?style=flat-square&logo=blender&logoColor=00D9FF" alt="VFX and AI" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Code2Collapse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code2Collapse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&cache_seconds=86400&custom_title=My%20Galactic%20Standard%20Languages" height="150" alt="languages graph" />
 </div>
 
-**Tools and libraries:** Python, Hugging Face, LangChain, PyTorch, TensorFlow/Keras, scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, NLTK, OpenCV, Django, Flask, Streamlit, MongoDB, MySQL, Docker, Git, Linux, AWS, Hadoop, Spark, Tableau, and Power BI.
-
-## `find_me`
-
-- **Ask me about:** Generative AI, LLMs, RAG, vector databases, NLP, machine learning, deep learning, and AI in creative workflows.
-- **Currently exploring:** Better ways to combine solid engineering fundamentals with AI tools—without blindly trusting whatever a model says.
-- **Off-screen interests:** Books, Star Wars, space, science, films, and tech rabbit holes that were supposed to take five minutes.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Code2Collapse&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
 
 <div align="center">
-  <img src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="260" alt="Animated character" />
+  <img src="https://github-profile-trophy.vercel.app?username=Code2Collapse&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code2Collapse&radius=16&theme=github-dark&area=true&bg_color=000000&color=00aeff&title_color=00FF41&line=00FF41&point=FFFFFF&area_color=FFFFFF&custom_title=My%20Contribution%20Holocron" height="300" alt="activity-graph graph" />
 </div>
 
 ---
 
-## `the_github_dashboard`
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Code2Collapse&label=PROFILE%20VISITS&color=00D9FF&style=flat-square" alt="Profile visits" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Code2Collapse&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=C9D7E8&border_color=12304A&hide_border=false" height="165" alt="GitHub stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Collapse&layout=compact&langs_count=6&theme=transparent&title_color=00D9FF&text_color=C9D7E8&border_color=12304A&hide_border=false" height="165" alt="Most-used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Code2Collapse&theme=dark&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D7E8&dates=8BA3BA&border=12304A" height="165" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Code2Collapse&theme=onestar&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code2Collapse&bg_color=050816&color=C9D7E8&line=00D9FF&point=FFFFFF&area=true&area_color=06324A&title_color=00D9FF&hide_border=true" width="95%" alt="Contribution activity graph" />
-
+  <img src="https://github.com/Code2Collapse/Code2Collapse/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> Top languages reflects the languages in my public repositories; it isn't a measure of overall skill or experience.
-
-<div align="center">
-
-<img src="https://github.com/Code2Collapse/Code2Collapse/blob/main/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
-
-<br/>
-
-<sub>Curiosity in. Experiments out. Repeat.</sub>
-
-</div>
+<h4 align="center">⚠ Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
