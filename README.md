@@ -1,5 +1,5 @@
-<h1 align="center">• Hello There 👋, Likhith is who I am •</h1>
-<h3 align="center">⚡ Explorer | Creator | Innovator | Developer ⚡</h3>
+<h1 align="center">• Hello there 👋, I'm Likhith •</h1>
+<h3 align="center">⚡ AI/ML Engineer | Builder | Full-Time Nerd ⚡</h3>
 
 <div align="center">
   <img alt="gif" src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/2dbe6ffd-825a-4153-b33e-adb7de4bc648" width="300" height="300" />
@@ -7,35 +7,46 @@
 
 <br>
 
-⁜ I am a Data Science with AI & ML Enthusiast, trying to build AI solutions for a smarter future.
+⁜ I'm an AI/ML Engineer who enjoys building things, breaking things, figuring out why they broke, and occasionally making them work better than before.
 
-⁜ As a passionate data scientist with a knack for innovation, I leverage cutting-edge techniques like Generative AI and NLP to tackle complex problems.
+⁜ I work across Machine Learning, Deep Learning, Generative AI, and backend development. I'm particularly interested in understanding what happens under the hood rather than treating models and tools as black boxes.
 
-⁜ I enjoy writing clean, purposeful code and am always looking for better ways to solve problems — whether that's through a smarter algorithm or a well-designed system.
+⁜ From experimenting with LLMs and diffusion models to building APIs and exploring AI applications in VFX, I enjoy turning interesting ideas into things that actually work.
 
-⁜ I love programming, reading books, learning about awesome new-tech and communicating with everyone.
+⁜ Outside the engineering side of things, I'm basically curious about everything. Technology, science, space, automobiles, gaming, films, comics, books, history, and whatever random topic catches my attention. One curiosity usually leads to another (and suddenly it's 3 AM).
 
 <div align="left">
 
 <img align="right" alt="gif" src="https://github.com/Code2Collapse/Code2Collapse/assets/132389441/37e67869-e8d5-45ec-8c57-9eff31b59b83" width="300" height="350" />
 
-- 🔭 **I'm currently working on** [VedaGPT](https://github.com/Code2Collapse/VedaGPT)
+- 🔭 **Currently working on:** AI/ML systems and generative workflows for VFX, exploring how these technologies can fit into real production pipelines.
 
-- 🌱 **I'm currently learning:**
-  - HuggingFace, LLMs, AI, DS, ML, NLP
-  - Data Structures and Algorithms
+- 🧪 **A project I built:**
+    - [ComfyUI Custom Node Packs](https://github.com/Code2Collapse/ComfyUI-CustomNodePacks) — A growing collection of tools for segmentation, matting, masking, video processing, colour science, EXR workflows, and VFX operations.
+    - [ComfyUI Nuke Node Pack](https://github.com/Code2Collapse/ComfyUI-NukeNodePack) — Bringing Nuke-inspired compositing concepts and traditional VFX operations into AI generation workflows.
+    - [H2 SamViT Gizmo for Nuke](https://github.com/Code2Collapse/MatteOSS-For-Nuke-Gizmos) — Local AI-powered segmentation and alpha matting using SAM2/SAM3 and ViTMatte.
+    - [Wan Animate Preprocess V2](https://github.com/Code2Collapse/ComfyUI-WanAnimatePreprocessV2) — Pose, face, iris, and gaze preprocessing for video animation workflows.
+    - [Wan Animal Preprocess](https://github.com/Code2Collapse/ComfyUI-WanAnimalPreprocess) — Animal pose estimation, retargeting, and animation preprocessing.
+
+- 🌱 **Currently exploring:**
+  - LLMs, RAG, fine-tuning, and multimodal AI
+  - Diffusion models, VAEs, and generative image/video workflows
+  - ComfyUI, custom nodes, and model experimentation
+  - Model optimization, evaluation, and deployment
+  - Data Structures & Algorithms
   - System Design
-  - Tools and technologies: Pandas, NumPy, Scikit-Learn, PyTorch, NLTK, SciPy, Matplotlib, Seaborn, Keras, HuggingFace, LangChain, Flask, Streamlit, Hadoop, Spark, Tableau, PowerBI
 
-- 👨‍💻 **All of my projects are available at** [https://github.com/Code2Collapse/](https://github.com/Code2Collapse/)
+- 🧰 **Technologies I work with:** Python, PyTorch, Hugging Face, LangChain, FastAPI, Flask, vector databases, Docker, AWS, and more.
 
-- 💬 **Ask me anything about** AI, LLMs, Generative AI, Vector Databases, RAGs, GANs, HuggingFace, Data Science, Machine Learning, Natural Language Processing, Deep Learning
+- 👨‍💻 **My projects and experiments:** [github.com/Code2Collapse](https://github.com/Code2Collapse/)
 
-- 📫 **How to reach me:** [v.likhith.01@gmail.com](mailto:v.likhith.01@gmail.com)
+- 💬 **Ask me about:** AI/ML, LLMs, Generative AI, RAG, diffusion models, NLP, Deep Learning, VFX workflows, or anything you're curious about.
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
+- 📫 **Reach me at:** [v.likhith.01@gmail.com](mailto:v.likhith.01@gmail.com)
 
-- ⚡ **Fun fact:** I might have some sense of humour. I will have more convos if you start about Star Wars, Tech-Stuff, Space. Literally Anything!
+- 📄 **Experience & resume:** [Have a look](https://drive.google.com/file/d/1qwvUaJRfJRmhQ-SoWjA513G5j5iqGQhy/view?usp=drive_link)
+
+- ⚡ **Fun fact:** I'm a certified full nerd. I play video games, enjoy DC and Marvel, love Star Wars, sci-fi, space, and pretty much anything that gives me something interesting to obsess over. I'm curious about way too many things, so there's a good chance we can find something to talk about. Anime, though? Never really got into it. :p
 
 </div>
 
@@ -56,7 +67,7 @@
 
 ---
 
-## 🛠️ My Favourite Tools
+## 🛠️ Tools & Technologies
 
 ### 👨‍💻 Programming Languages
 
